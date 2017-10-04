@@ -5,7 +5,7 @@
     "unsupportedPlatforms" : [ ],
     "tags" : "elasticsearch", 
     "description": "Monitors Elasticsearch",
-    "command_lua" : "boundary-meter init.lua",
+    "command_lua" : "truesight-meter init.lua",
     "postExtract_lua" : "",
     "command": "python -u plugin.py",
     "icon" : "icon.png",
